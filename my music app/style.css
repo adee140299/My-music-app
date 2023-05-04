@@ -89,13 +89,10 @@ nav ul li{
     border-radius: 34px;
 }
 .timestamp{
-    margin-top:10px;
-    margin-right:80px;
+    margin:0 23px;
 }
 
 .timestamp i{
-    margin-top:0;
-    margin-left:60px;
     cursor: pointer;
 }
 
